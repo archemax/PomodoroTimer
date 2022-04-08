@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountDownPomodoro</string>
+    <string name="pause_is_running_text">Pause is running</string>
+</resources>
